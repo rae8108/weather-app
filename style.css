@@ -1,0 +1,62 @@
+body {
+  font-family: "Handlee", cursive;
+}
+h1 {
+  font-size: 35px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 15px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 45px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+.card-body {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.card {
+  margin-top: 30px;
+  width: 550px;
+  background-image: url("images/sunny.jpg");
+  display: block;
+  margin: 100px auto;
+}
+
+ul {
+  list-style: none;
+  font-size: 12px;
+  font-weight: 100;
+  position: relative;
+  right: -180px;
+  bottom: 55px;
+}
+
+.row1 {
+  text-align: center;
+}
+
+.row2 {
+  text-align: center;
+}
+
+.row3 {
+  text-align: center;
+  font-size: x-small;
+  color: #5a6276;
+}
+
+.temperature {
+  font-size: 35px;
+  margin-top: 10px;
+  font-weight: bold;
+}
