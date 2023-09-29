@@ -60,3 +60,11 @@ ul {
   margin-top: 10px;
   font-weight: bold;
 }
+
+small {
+  font-size: 14px;
+  display: block;
+  margin: 100px auto;
+  margin-top: -80px;
+  margin-left: 75px;
+}
